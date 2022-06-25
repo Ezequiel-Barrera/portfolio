@@ -4,7 +4,7 @@ import {MdOutlineMail} from 'react-icons/md'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser'
 
 const Contact = () => {
 
